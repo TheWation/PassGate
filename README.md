@@ -17,5 +17,7 @@ If you are interested in learning more about password security and how to create
 - [National Cyber Security Centre: Password Guidance](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-guidance-simplifying-your-approach)
 - [Open Web Application Security Project (OWASP): Passwords Cheat Sheet](https://owasp.org/www-project-cheat-sheets/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [Google: Create a strong password](https://support.google.com/accounts/answer/32040?hl=en)
+- https://github.com/danielmiessler/SecLists
+- http://wordlists.assetnote.io/
 
 Thank you for visiting this repository and for your interest in password security.
