@@ -7,6 +7,7 @@ templates
 cache
 media
 js
+update
 language
 tmp
 search
@@ -460,7 +461,6 @@ recent
 typo3_src
 subscription
 _css
-update
 bilder
 hu
 siteadmin
