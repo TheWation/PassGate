@@ -27,6 +27,8 @@ env.bak
 env.js
 env.list
 env.sh
+manual
+manuals
 backup.sql
 backuo.zip
 backup.tar
